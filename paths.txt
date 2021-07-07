@@ -1,0 +1,3 @@
+.config/autostart
+
+snap/xibo-player/common/
